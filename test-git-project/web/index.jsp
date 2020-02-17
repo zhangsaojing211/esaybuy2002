@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  测试git教程
+  测试
   </body>
 </html>
